@@ -17,7 +17,7 @@ const Footer = () => {
         <div className="col-md-4 border-end">
           <h4 className="text-center">About Us</h4>
           <p>
-            <b>Our Motto</b>: Pouring quality, delivering joy....
+            <b>Our Motto</b>: Pouring quality, delivering joy.....
           </p>
         </div>
 
